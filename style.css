@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    text-align: center;
+}
+ul{
+    border: 1px hotpink solid;
+     padding: 20px; 
+     background-color: pink;
+}
+.side{
+    width: 100px;
+    border: 50px blue solid;
+}
+div {
+    border: solid 5px green;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    text-align: center;
+    padding:125px;
+}
